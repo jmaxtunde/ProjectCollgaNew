@@ -1,0 +1,15 @@
+<svg id="error" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141.117" height="141.117" viewBox="0 0 141.117 141.117">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.178" y1="0.858" x2="0.768" y2="-0.035" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b70c0c"/>
+      <stop offset="1" stop-color="#f10000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.178" y1="0.858" x2="0.768" y2="-0.035" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#b70c0c"/>
+      <stop offset="1" stop-color="#ff0707"/>
+    </linearGradient>
+  </defs>
+  <circle id="Oval_2" data-name="Oval 2" cx="70.559" cy="70.559" r="70.559" fill="url(#linear-gradient)"/>
+  <circle id="Oval_2-2" data-name="Oval 2" cx="63.228" cy="63.228" r="63.228" transform="translate(7.331 7.331)" opacity="0.12"/>
+  <circle id="Oval_2-3" data-name="Oval 2" cx="55.897" cy="55.897" r="55.897" transform="translate(14.662 14.662)" fill="url(#linear-gradient-2)"/>
+</svg>
